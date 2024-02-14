@@ -14,7 +14,7 @@ LLM-PDF-ChatApp is a Streamlit web application powered by LangChain and OpenAI's
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/LLM-PDF-ChatApp.git
+    git clone https://github.com/yanseijiyan/StreamLit_PDF_Chat_App.git
     ```
 
 2. Install the required dependencies:
